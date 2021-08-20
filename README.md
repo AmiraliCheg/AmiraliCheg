@@ -14,3 +14,5 @@ var på vei hjem. musen bodde i big ben.
 han hadde en lang vei å gå. når han var på vei så fant han
 en død mann på veien. han ble redd fordi han visste ikke hva 
 han skulle gjøre. så han løpte hjem. 
+
+Amir
